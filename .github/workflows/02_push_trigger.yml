@@ -1,5 +1,6 @@
 name: 2. Push Trigger Action
 
+
 on:
   push:
     branches:
